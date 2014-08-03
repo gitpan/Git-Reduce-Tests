@@ -1,0 +1,16 @@
+.gitignore
+Changes
+lib/Git/Reduce/Tests.pm
+lib/Git/Reduce/Tests/Opts.pm
+LICENSE
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+MYMETA.json
+MYMETA.yml
+README
+README.md
+scripts/reduce-tests
+t/001-options.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
