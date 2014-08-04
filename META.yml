@@ -26,4 +26,4 @@ requires:
   Git::Wrapper: '0.034'
   Test::Simple: '0.44'
   perl: '5.010000'
-version: '0.02'
+version: '0.03'
